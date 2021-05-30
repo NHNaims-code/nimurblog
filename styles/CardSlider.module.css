@@ -1,0 +1,16 @@
+
+/* custom home css */
+.container{
+    max-width: 1190px;
+    margin: 0 auto;
+  }
+
+.ItemCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CardSlider{
+    padding-top: 5rem;
+}

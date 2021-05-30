@@ -119,3 +119,10 @@
     flex-direction: column;
   }
 }
+
+
+
+/* custom home css */
+.container{
+  max-width: 1190px;
+}
